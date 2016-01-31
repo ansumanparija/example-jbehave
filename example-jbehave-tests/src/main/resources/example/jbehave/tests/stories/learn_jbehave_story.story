@@ -25,4 +25,4 @@ When products are added to the shopping cart:
 |Specification By Example|  2|
 
 Then the number of products in shopping cart is 2
-And total price is 95 EUR
+
